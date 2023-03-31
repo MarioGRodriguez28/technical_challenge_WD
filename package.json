@@ -1,0 +1,25 @@
+{
+  "name": "technical_challenge_wd",
+  "version": "1.0.0",
+  "description": "Techinal chanllenge to ENTER",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioGRodriguez28/technical_challenge_WD.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Mario Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarioGRodriguez28/technical_challenge_WD/issues"
+  },
+  "homepage": "https://github.com/MarioGRodriguez28/technical_challenge_WD#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
